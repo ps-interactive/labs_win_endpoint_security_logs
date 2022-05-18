@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel name="security" isolation="security"
+         xmlns="http://schemas.microsoft.com/win/2004/08/events">
+  <logging>
+    <retention>true</retention>
+    <autoBackup>true</autoBackup>
+    <maxSize>9000000</maxSize>
+  </logging>
+  <publishing>
+  </publishing>
+</channel>
